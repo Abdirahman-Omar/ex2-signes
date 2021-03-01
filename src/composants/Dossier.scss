@@ -1,0 +1,42 @@
+.Dossier{
+    height: 350px;
+    margin: 35px;
+    padding: 5px;
+    background-color: #444;
+    color: white;
+    border: 1px solid #555;
+    overflow: hidden;
+    text-align: center;
+   
+    img{
+    height: 200px;
+    }
+   
+    
+    .deplacer{
+        margin: 0 180px 0 0;
+        position: absolute;
+        color: darkgrey;
+        background-color: darkblue;
+        opacity: 0.3;
+        border-radius: 50px;
+    }
+    .info{
+        font-size: 0.8em;
+        line-height: 1.3em;
+
+        h2{
+            margin: 10px 120px 0 0;
+            height: 30px;
+            font-weight: 500;
+        }
+        p{
+            margin: 20px 27px 0px 0px;
+            font-size: 18px;
+            height: 30px;
+            font-weight: 600;
+
+        }
+       
+    }
+}

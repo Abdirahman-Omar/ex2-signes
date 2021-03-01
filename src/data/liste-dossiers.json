@@ -2,7 +2,7 @@
   {
     "id": "d1",
     "titre": "JavaScript",
-    "couleur": "#900",
+    "couleur": "black",
     "dateModif": "3 février 2021"
   },
   {
@@ -14,7 +14,7 @@
   {
     "id": "d3",
     "titre": "Firebase",
-    "couleur": "#009",
+    "couleur": "orange",
     "dateModif": "11 janvier 2021"
   },
   {
@@ -22,5 +22,29 @@
     "titre": "GraphQL",
     "couleur": "#986532",
     "dateModif": "23 décembre 2020"
+  },
+  {
+    "id":"d5",
+    "titre":"IDEs (nuagiques)",
+    "couleur": "green",
+    "dateModif": " 13 fevrier 2021"
+  },
+  {
+    "id":"d6",
+    "titre":"Outils Javascript",
+    "couleur":"darkgoldenrod",
+    "dateModif": "14 fevrier 2021"
+  },
+  {
+    "id":"d7",
+    "titre":"GraphQL",
+    "couleur": "purple",
+    "dateModif": "17 fevrier 2021"
+  },
+  {
+    "id":"d8",
+    "titre":"React",
+    "couleur": "lightblue",
+    "dateModif": "12 fevrier 2021"
   }
 ]
